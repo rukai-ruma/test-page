@@ -1,4 +1,4 @@
-#GitHub Pages おためし
+# GitHub Pages おためし
 
 初めて作ったページです。
 
